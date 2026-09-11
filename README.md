@@ -70,6 +70,17 @@ A Design FMEA was carried out across the major mechanical, electrical, control a
 
 DFMA was used to evaluate material selection, manufacturing processes, assembly methods, maintenance and cost.
 
+## Project Files
+
+### Engineering Analysis
+
+- [QFD / House of Quality](analysis/OneStep-QFD-House-of-Quality.xlsx)
+- [Design FMEA](analysis/OneStep-DFMEA.xlsx)
+
+### CAD
+
+- [STEP Assembly Model](cad/OneStep-Robot-Arm-Assembly.stp)
+
 ## Tools and Methods
 
 - CATIA
