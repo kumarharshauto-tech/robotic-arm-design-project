@@ -108,7 +108,7 @@
 
 # 
 
-# !\[QFD House of Quality](images/qfd.png)
+##### !\[QFD House of Quality](images/qfd.png)
 
 # 
 
@@ -146,11 +146,11 @@
 
 
 
-# !\[Concept Generation](images/concept-generation.png)
+##### !\[Concept Generation](images/concept-generation.png)
 
-# 
+##### 
 
-# !\[Pugh Matrix](images/pugh-matrix.png)
+##### !\[Pugh Matrix](images/pugh-matrix.png)
 
 # 
 
@@ -216,7 +216,7 @@
 
 # 
 
-# !\[Design FMEA](images/fmea.png)
+##### !\[Design FMEA](images/fmea.png)
 
 # 
 
@@ -264,7 +264,7 @@
 
 # 
 
-# !\[Design FMEA](images/fmea.png)
+##### !\[Design FMEA](images/fmea.png)
 
 # 
 
