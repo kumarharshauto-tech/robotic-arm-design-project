@@ -8,6 +8,14 @@
 
 # The project combined structured product development methods including QFD, morphological analysis, Pugh Matrix evaluation, FMEA, DFMA and CAD modelling.
 
+
+
+# \## Final Design
+
+# 
+
+# !\[OneStep Robotic Arm Final Design](images/final-design.png)
+
 # 
 
 # \## Project Objective
@@ -100,6 +108,10 @@
 
 # 
 
+# !\[QFD House of Quality](images/qfd.png)
+
+# 
+
 # \## Concept Generation
 
 # 
@@ -131,6 +143,14 @@
 # 
 
 # A weighted Pugh Matrix was then used to compare the concepts against criteria including durability, safety, cost, flexibility, maintainability and performance.
+
+
+
+# !\[Concept Generation](images/concept-generation.png)
+
+# 
+
+# !\[Pugh Matrix](images/pugh-matrix.png)
 
 # 
 
@@ -196,6 +216,10 @@
 
 # 
 
+# !\[Design FMEA](images/fmea.png)
+
+# 
+
 # \## DFMA
 
 # 
@@ -237,6 +261,10 @@
 # \### CAD
 
 # \- STEP assembly model of the robotic arm system
+
+# 
+
+# !\[Design FMEA](images/fmea.png)
 
 # 
 
