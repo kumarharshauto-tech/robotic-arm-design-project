@@ -2,11 +2,11 @@
 
 # 
 
-# A team-based engineering design project focused on developing a lightweight, dismantlable and cost-conscious robotic system for transporting medicine boxes within hospital environments.
+##### A team-based engineering design project focused on developing a lightweight, dismantlable and cost-conscious robotic system for transporting medicine boxes within hospital environments.
 
-# 
+##### 
 
-# The project combined structured product development methods including QFD, morphological analysis, Pugh Matrix evaluation, FMEA, DFMA and CAD modelling.
+##### The project combined structured product development methods including QFD, morphological analysis, Pugh Matrix evaluation, FMEA, DFMA and CAD modelling.
 
 
 
@@ -14,7 +14,7 @@
 
 # 
 
-# !\[OneStep Robotic Arm Final Design](images/final-design.png)
+##### !\[OneStep Robotic Arm Final Design](images/final-design.png)
 
 # 
 
@@ -22,35 +22,35 @@
 
 # 
 
-# The aim was to design a robotic arm system capable of handling medicine boxes up to:
+##### The aim was to design a robotic arm system capable of handling medicine boxes up to:
 
-# 
+##### 
 
-# \- 2 kg payload
+##### \- 2 kg payload
 
-# \- 50 cm package size
+##### \- 50 cm package size
 
-# \- Approximately 700 mm reach
+##### \- Approximately 700 mm reach
 
-# 
+##### 
 
-# The design also considered:
+##### The design also considered:
 
-# 
+##### 
 
-# \- Interchangeable end-effectors
+##### \- Interchangeable end-effectors
 
-# \- Ease of maintenance
+##### \- Ease of maintenance
 
-# \- Disassembly and recycling
+##### \- Disassembly and recycling
 
-# \- Safety
+##### \- Safety
 
-# \- Manufacturability
+##### \- Manufacturability
 
-# \- Cost
+##### \- Cost
 
-# \- Adaptability for future use
+##### \- Adaptability for future use
 
 # 
 
@@ -58,27 +58,27 @@
 
 # 
 
-# The project followed a structured engineering design process:
+##### The project followed a structured engineering design process:
 
-# 
+##### 
 
-# 1\. Customer and technical requirement identification
+##### 1\. Customer and technical requirement identification
 
-# 2\. Benchmarking of existing robotic systems
+##### 2\. Benchmarking of existing robotic systems
 
-# 3\. Quality Function Deployment (QFD)
+##### 3\. Quality Function Deployment (QFD)
 
-# 4\. Concept generation using morphological analysis
+##### 4\. Concept generation using morphological analysis
 
-# 5\. Concept evaluation using a Pugh Matrix
+##### 5\. Concept evaluation using a Pugh Matrix
 
-# 6\. CAD development of the selected concept
+##### 6\. CAD development of the selected concept
 
-# 7\. Failure Mode and Effects Analysis (FMEA)
+##### 7\. Failure Mode and Effects Analysis (FMEA)
 
-# 8\. Design for Manufacture and Assembly (DFMA)
+##### 8\. Design for Manufacture and Assembly (DFMA)
 
-# 9\. Final design evaluation
+##### 9\. Final design evaluation
 
 # 
 
@@ -86,25 +86,25 @@
 
 # 
 
-# A House of Quality was developed to translate user requirements into measurable engineering characteristics.
+##### A House of Quality was developed to translate user requirements into measurable engineering characteristics.
 
-# 
+##### 
 
-# Benchmarking included comparison against existing systems such as:
+##### Benchmarking included comparison against existing systems such as:
 
-# 
+##### 
 
-# \- KUKA LBR Med
+##### \- KUKA LBR Med
 
-# \- Niryo One
+##### \- Niryo One
 
-# \- Boston Dynamics Stretch
+##### \- Boston Dynamics Stretch
 
-# \- Universal Robots UR10e
+##### \- Universal Robots UR10e
 
-# 
+##### 
 
-# Key design targets included payload capacity, weight, reach, dimensions, material selection, energy efficiency and repeatability.
+##### Key design targets included payload capacity, weight, reach, dimensions, material selection, energy efficiency and repeatability.
 
 # 
 
@@ -112,37 +112,37 @@
 
 # 
 
-# \## Concept Generation
+##### \## Concept Generation
 
-# 
+##### 
 
-# Multiple system concepts were developed using morphological analysis.
+##### Multiple system concepts were developed using morphological analysis.
 
-# 
+##### 
 
-# The concepts considered alternative:
+##### The concepts considered alternative:
 
-# 
+##### 
 
-# \- Base configurations
+##### \- Base configurations
 
-# \- End-effectors
+##### \- End-effectors
 
-# \- Control systems
+##### \- Control systems
 
-# \- Actuation methods
+##### \- Actuation methods
 
-# \- Safety systems
+##### \- Safety systems
 
-# \- Sensors
+##### \- Sensors
 
-# \- Communication systems
+##### \- Communication systems
 
-# \- Power sources
+##### \- Power sources
 
-# 
+##### 
 
-# A weighted Pugh Matrix was then used to compare the concepts against criteria including durability, safety, cost, flexibility, maintainability and performance.
+##### A weighted Pugh Matrix was then used to compare the concepts against criteria including durability, safety, cost, flexibility, maintainability and performance.
 
 
 
@@ -158,25 +158,25 @@
 
 # 
 
-# The selected concept used a tracked mobile base with a robotic arm and suction-based end-effector.
+##### The selected concept used a tracked mobile base with a robotic arm and suction-based end-effector.
 
-# 
+##### 
 
-# The final design focused on:
+##### The final design focused on:
 
-# 
+##### 
 
-# \- Modular architecture
+##### \- Modular architecture
 
-# \- Interchangeable end-effector
+##### \- Interchangeable end-effector
 
-# \- Stable tracked mobility
+##### \- Stable tracked mobility
 
-# \- Ease of maintenance
+##### \- Ease of maintenance
 
-# \- Reduced assembly complexity
+##### \- Reduced assembly complexity
 
-# \- Adaptability for hospital environments
+##### \- Adaptability for hospital environments
 
 # 
 
@@ -184,35 +184,35 @@
 
 # 
 
-# A Design FMEA was carried out on major system elements including:
+##### A Design FMEA was carried out on major system elements including:
 
-# 
+##### 
 
-# \- Tracked base
+##### \- Tracked base
 
-# \- Arms and links
+##### \- Arms and links
 
-# \- Joints
+##### \- Joints
 
-# \- Actuators
+##### \- Actuators
 
-# \- Sensors
+##### \- Sensors
 
-# \- Control system
+##### \- Control system
 
-# \- End-effector
+##### \- End-effector
 
-# \- Safety mechanisms
+##### \- Safety mechanisms
 
-# \- Software
+##### \- Software
 
-# \- Wiring and connections
+##### \- Wiring and connections
 
-# \- Cooling system
+##### \- Cooling system
 
-# 
+##### 
 
-# Recommended actions were developed to reduce risk and improve reliability.
+##### Recommended actions were developed to reduce risk and improve reliability.
 
 # 
 
@@ -224,25 +224,25 @@
 
 # 
 
-# DFMA was applied to evaluate:
+##### DFMA was applied to evaluate:
 
-# 
+##### 
 
-# \- Material selection
+##### \- Material selection
 
-# \- Manufacturing processes
+##### \- Manufacturing processes
 
-# \- Assembly methods
+##### \- Assembly methods
 
-# \- Ease of maintenance
+##### \- Ease of maintenance
 
-# \- Part reduction
+##### \- Part reduction
 
-# \- Cost implications
+##### \- Cost implications
 
-# 
+##### 
 
-# The design considered aluminium, steel, polymers and other engineering materials depending on function and structural requirements.
+##### The design considered aluminium, steel, polymers and other engineering materials depending on function and structural requirements.
 
 # 
 
@@ -250,17 +250,17 @@
 
 # 
 
-# \### Analysis
+##### \### Analysis
 
-# \- QFD / House of Quality
+##### \- QFD / House of Quality
 
-# \- Design FMEA
+##### \- Design FMEA
 
-# 
+##### 
 
-# \### CAD
+##### \### CAD
 
-# \- STEP assembly model of the robotic arm system
+##### \- STEP assembly model of the robotic arm system
 
 # 
 
@@ -268,43 +268,43 @@
 
 # 
 
-# \## Tools and Methods
+##### \## Tools and Methods
 
-# 
+##### 
 
-# \- CATIA
+##### \- CATIA
 
-# \- CAD modelling
+##### \- CAD modelling
 
-# \- QFD
+##### \- QFD
 
-# \- House of Quality
+##### \- House of Quality
 
-# \- FMEA
+##### \- FMEA
 
-# \- DFMA
+##### \- DFMA
 
-# \- Pugh Matrix
+##### \- Pugh Matrix
 
-# \- Morphological Analysis
+##### \- Morphological Analysis
 
-# \- Engineering benchmarking
+##### \- Engineering benchmarking
 
-# \- Microsoft Excel
+##### \- Microsoft Excel
 
-# 
+##### 
 
-# \## Project Type
+##### \## Project Type
 
-# 
+##### 
 
-# Team engineering design project completed as part of MSc Automotive Engineering studies.
+##### Team engineering design project completed as part of MSc Automotive Engineering studies.
 
-# 
+##### 
 
-# \## My Contribution
+##### \## My Contribution
 
-# 
+##### 
 
-# I contributed as a member of the five-person project team across the design process, including engineering analysis, concept development, evaluation and project documentation.
+##### I contributed as a member of the five-person project team across the design process, including engineering analysis, concept development, evaluation and project documentation.
 
