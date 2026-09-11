@@ -14,7 +14,7 @@
 
 # 
 
-##### ***!\[OneStep Robotic Arm Final Design](images/final-design.png)***
+##### ***!\[OneStep Robotic Arm Final Design](images/final\_design(1).png)***
 
 # 
 
@@ -148,9 +148,11 @@
 
 ##### ***!\[Concept Generation](images/concept-generation.png)***
 
+##### ***!\[Concept Generation](images/morphological\_chart\_concept\_gen.png)***
+
 ##### 
 
-##### ***!\[Pugh Matrix](images/pugh-matrix.png)***
+##### ***!\[Pugh Matrix](images/pugh\_matrix.png)***
 
 # 
 
@@ -261,10 +263,6 @@
 ##### \### CAD
 
 ##### \- STEP assembly model of the robotic arm system
-
-# 
-
-##### ***!\[Design FMEA](images/fmea.png)***
 
 # 
 
