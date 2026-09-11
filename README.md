@@ -14,7 +14,7 @@
 
 # 
 
-##### ***!\[OneStep Robotic Arm Final Design](images/final\_design(1).png)***
+##### **!\[OneStep Robotic Arm Final Design](images/final-design.png)**
 
 # 
 
@@ -108,7 +108,7 @@
 
 # 
 
-##### ***!\[QFD House of Quality](images/qfd.png)***
+##### **!\[QFD House of Quality](images/qfd.png)**
 
 # 
 
@@ -146,13 +146,11 @@
 
 
 
-##### ***!\[Concept Generation](images/concept-generation.png)***
+##### **!\[Concept Generation](images/concept-generation.png)**
 
-##### ***!\[Concept Generation](images/morphological\_chart\_concept\_gen.png)***
+##### **!\[Concept Generation](images/morphological-chart.png)**
 
-##### 
-
-##### ***!\[Pugh Matrix](images/pugh\_matrix.png)***
+##### **!\[Pugh Matrix](images/pugh-matrix.png)**
 
 # 
 
@@ -180,7 +178,9 @@
 
 ##### \- Adaptability for hospital environments
 
-# 
+
+
+##### !\[CAD Drawing and Dimensions](images/cad-drawing.png)
 
 # \## FMEA
 
@@ -218,7 +218,7 @@
 
 # 
 
-##### ***!\[Design FMEA](images/fmea.png)***
+##### **!\[Design FMEA](images/fmea.png)**
 
 # 
 
